@@ -1,1 +1,1 @@
-Image Gallery App 
+Image Gallery App using API from Pixabay.
